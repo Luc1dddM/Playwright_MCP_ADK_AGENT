@@ -1,0 +1,7 @@
+yfinance==0.2.63
+psutil==7.0.0
+litellm
+google-generativeai==0.8.5
+python-dotenv
+deprecated==1.2.18
+google-adk==1.2.1
